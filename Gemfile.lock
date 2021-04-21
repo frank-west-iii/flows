@@ -38,7 +38,11 @@ GEM
       faraday (>= 0.7.4, < 1.0)
     fastimage (1.6.8)
       addressable (~> 2.3, >= 2.3.5)
+<<<<<<< HEAD
     fastlane (1.92.0)
+=======
+    fastlane (1.91.0)
+>>>>>>> v1.0.1
       addressable (~> 2.3)
       cert (>= 1.4.1, < 2.0.0)
       credentials_manager (>= 0.16.0, < 1.0.0)
@@ -226,7 +230,11 @@ PLATFORMS
   x86_64-darwin-19
 
 DEPENDENCIES
+<<<<<<< HEAD
   fastlane (~> 1.92.0)
+=======
+  fastlane (~> 1.91.0)
+>>>>>>> v1.0.1
 
 BUNDLED WITH
    2.2.5
